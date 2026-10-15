@@ -1,1 +1,3 @@
-File Parsing: CSV to JSON and XML to CSV Conversion - Labratory of Data Science Course Assignments
+**File Parsing: CSV, JSON & XML Conversion**
+
+A collection of Data Science course assignments demonstrating file parsing and data format conversion, including CSV-to-JSON and XML-to-CSV transformations.
